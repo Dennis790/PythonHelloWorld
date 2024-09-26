@@ -1,6 +1,5 @@
 """This is my first program. It outputs Hello World! To the screen.
-D. Shon-September 20 2024"""
-
+D. Shon - September 20 2024"""
 
 def main():
   pass
